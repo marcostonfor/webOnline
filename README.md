@@ -6,4 +6,4 @@
 
 ## ___Perl___ será el primero de estos lenguajes
 
-- [bienvenidos a Perl- apuntes -]()
+- [bienvenidos a Perl- apuntes -](./primeros_pasos.md)
